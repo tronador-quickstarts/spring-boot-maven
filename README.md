@@ -1,3 +1,3 @@
-## Spring Boot and Maven Jenkinsfile example
+## Spring Boot and Maven example
 
-This is a simple quickstart to show how we can work with repositories using Jenkins pipelines via a `Jenkinsfile` inside [Jenkins X](https://jenkins-x.io/)
+This is a simple quickstart to show how we can work with repositories
